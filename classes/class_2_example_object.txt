@@ -1,0 +1,15 @@
+Partially restored 1965 Chevy El Camino 230
+
+Attributes:
+manufacturer = "Chevrolet"
+model_type = "El Camino"
+engine_cc: 230
+odometer_reading: 65000
+color: "brown"
+purchase_cost: 4350.00
+
+Methods:
+research_repair_guide: returns data with manufacturer, model_type, and engine_cc attributes
+paint_car: color = "black"
+drive_car: odometer_reading = 65000 + 1
+purchase: 4350.00

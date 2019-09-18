@@ -1,0 +1,15 @@
+Class: 60s Era Classic Car
+
+Attributes:
+manufacturer (array)
+model_type (array)
+engine_cc (integer)
+odometer_reading (integer)
+color (string)
+purchase_cost (float)
+
+Methods:
+research_repair_guide (returns data from manufacture array and model_type array attributes)
+paint_car (changes the color attribute)
+drive_car (adds +1 to odometer_reading attribute)
+purchase (returns purchase_cost attribute)

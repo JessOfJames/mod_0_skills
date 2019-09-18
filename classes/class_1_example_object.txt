@@ -1,0 +1,13 @@
+Vulcan Stove during peak time restaurant supper rush
+
+Attributes:
+purchase_cost: 3885.00
+gas_burner_on: Yes
+appearance_of_stovetop: "dirty"
+simmer_temperature_of_burner_3: 195
+
+Methods:
+purchase: 3885.00
+cook_meal_on_stove: gas_burner_on = True and appearance_of_stovetop = "dirty"
+wash_stove: appearance_of_stovetop = "clean to kitchen standard"
+simmer_burner_3: gas_burner_on = True and simmer_temperature_of_burner_3 = 195

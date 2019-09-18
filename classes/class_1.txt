@@ -1,0 +1,13 @@
+Class: Stove
+
+Attributes:
+purchase_cost (float)
+gas_burner_on (boolean)
+color_of_stovetop (string)
+temperature_of_burner_3 (integer)
+
+Methods:
+purchase (returns purchase_cost attribute)
+cook_meal_on_stove (makes gas_burner_on attribute True and changes color_of_stovetop attribute)
+wash_stove (changes the color_of_stovetop attribute)
+simmer_burner_3 (makes gas_burner_on attribute True and adds =1 to temperature_of_burner_3 attribute)
